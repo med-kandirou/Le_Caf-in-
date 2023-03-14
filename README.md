@@ -33,4 +33,5 @@ Yoast seo: pour augmenter le seo d'application
 
 adapta RGPD : pour la partie securité (cookies)
 
+Polylang : pour la traduction du site
 
